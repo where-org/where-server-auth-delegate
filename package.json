@@ -9,6 +9,9 @@
     "type": "git",
     "url": "git+https://github.com/where-org/where-server-auth-delegate.git"
   },
+  "keywords": [
+    "where-server", "where-server-auth-module"
+  ],
   "type": "module",
   "main": "index.js"
 }
