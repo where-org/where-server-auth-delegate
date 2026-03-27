@@ -1,0 +1,14 @@
+{
+  "name": "@where-org/where-server-auth-delegate",
+  "version": "0.1.0",
+  "description": "where-server-auth-delegate. Delegates authentication and authorization to an app module",
+  "license": "MIT",
+  "author": "masafumi sasahara <masafumi@sashara.io> (https://github.com/masafumi-sasahara/)",
+  "homepage": "https://where-org.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/where-org/where-server-auth-delegate.git"
+  },
+  "type": "module",
+  "main": "index.js"
+}
