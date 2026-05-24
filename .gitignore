@@ -1,5 +1,11 @@
-/node_modules/
+node_modules
 package-lock.json
+#
+.env
+.mise.toml
+mise.toml
 #
 .DS_Store
 .localized
+
+
